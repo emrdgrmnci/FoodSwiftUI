@@ -2,7 +2,6 @@
 
 # FOOD DELIVERY APP [![Swift](https://img.shields.io/badge/Swift-5.0-orange.svg)]() [![Platform](https://img.shields.io/badge/platform-iOS-lightgrey.svg)]()
 
-#### WARNING!
 ---
 This project is my very first SwiftUI project and I followed <a href = "https://twitter.com/twostraws">Paul Hudson</a>'s <a href = "https://www.youtube.com/watch?v=nc-n5Gc8wN0&list=PLuoeXyslFTubw4NtepDCis5tTqK37zT3Q">tutorial</a>. 
 ---
