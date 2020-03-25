@@ -18,7 +18,7 @@ struct FavoriteView: View {
                     ItemRow(item: item)
                 }
             }
-            .navigationBarTitle("Favori")
+            .navigationBarTitle("Favoriler")
         }
     }
 }
