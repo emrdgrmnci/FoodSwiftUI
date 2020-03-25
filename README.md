@@ -8,8 +8,8 @@ This project is my very first SwiftUI project and I followed <a href = "https://
 ---
 
 <p float="left">
-  <img src="ScreenImages/ScreenShot1.png" width="150" height= "300"/>&nbsp; 
-  <img src="ScreenImages/ScreenShot2.png" width="150" height= "300"/>&nbsp;
+  <img src="ScreenImages/ScreenShot1.png" width="150" />&nbsp; 
+  <img src="ScreenImages/ScreenShot2.png" width="150" />&nbsp;
   <img src="ScreenImages/ScreenShot3.png" width="150" />&nbsp;
   <img src="ScreenImages/ScreenShot4.png" width="150" />&nbsp;
   </br>  
