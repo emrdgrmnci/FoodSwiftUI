@@ -1,0 +1,203 @@
+[
+	{
+        "id": "EF1CC5BB-4785-4D8E-AB98-5FA4E00B6A66",
+		"name": "Kahvaltılar",
+		"items": [
+			{
+                "id": "EDCD038C-036F-4C40-826F-61C88CD84DDD",
+				"name": "Köy Kahvaltısı",
+				"photoCredit": "Joseph Gonzalez",
+				"price": 6,
+				"restrictions": ["G", "V"],
+				"description": "Yumurta, Peynir, Zeytin, Domates"
+			},
+			{
+                "id": "36A7CC40-18C1-48E5-BCD8-3B42D43BEAEE",
+				"name": "Sahanda Yumurta",
+				"photoCredit": "Joseph Gonzalez",
+				"price": 8,
+				"restrictions": ["D", "G", "V"],
+				"description": "Yumurta"
+			},
+			{
+                "id": "CFB8C2DB-3478-4A10-92FA-3D2A2D5324FB",
+				"name": "Menemen",
+				"photoCredit": "Hanny Naibaho",
+				"price": 5,
+				"restrictions": ["D", "N"],
+				"description": "Yumurta, Peynir, Biber"
+			},
+			{
+                "id": "8903A204-F5C1-4D5C-A0A1-5C0ECD27FDD7",
+				"name": "Serpme Kahvaltı",
+				"photoCredit": "Kavita Joshi Rai",
+				"price": 23,
+				"restrictions": ["D", "G"],
+				"description": "Yumurta, Peynir, Bal, Reçel, Tereyağ"
+			},
+			{
+                "id": "82B28AFF-BB29-4186-AA07-04959180D81A",
+				"name": "Haftaiçi Kahvaltısı",
+				"photoCredit": "Melissa Walker Horn",
+				"price": 12,
+				"restrictions": ["G"],
+				"description": "Yumurta, Peynir, Çay, Tahin, Ceviz Reçeli"
+			}
+		]
+	},
+	{
+		"name": "Ana Yemekler",
+        "id": "3D97FAB4-50AC-40FC-9BF0-3F46BB6A92F5",
+		"items": [
+			{
+                "id": "D44AAEBC-BF4F-42CD-8C37-0FEF772A5B69",
+				"name": "Kurufasulye Pilav",
+				"photoCredit": "Brooke Lark",
+				"price": 15,
+				"restrictions": ["D", "G"],
+                "description": "Kurufasulye Pilav, Turşu, Yoğurt"
+			},
+			{
+                "id": "2BAD20C5-D007-4BBE-B074-8CF0F256A42F",
+				"name": "Kızartma",
+				"photoCredit": "Eaters Collective",
+				"price": 12,
+				"restrictions": ["D", "G", "V"],
+				"description": "Patates, Yoğurt, Patlıcan, Domates, Biber"
+			},
+			{
+                "id": "759527CB-1064-4082-A527-F04698F9D18F",
+				"name": "Tavuk Sote",
+				"photoCredit": "Edward Guk",
+				"price": 12,
+				"restrictions": ["D", "G"],
+                "description": "Biber, Tavuk, Domates, Salata"
+			},
+			{
+                "id": "AD419CE6-50CC-4132-BE8E-B92B9DFE4D02",
+				"name": "Salata",
+				"photoCredit": "Elli O.",
+				"price": 12,
+				"restrictions": ["S"],
+				"description": "Marul, Dereotu, Maydonoz"
+			},
+			{
+                "id": "024763B6-2577-4D04-9A4F-321F3EB19EA6",
+				"name": "Superfood Salata",
+				"photoCredit": "Mgg Vitchakorn",
+				"price": 9,
+				"restrictions": ["N", "V"],
+                "description": "Marul, Domates, Salatalık, Biber"
+			},
+			{
+                "id": "F0B4DF27-B293-4151-8480-FA46DFCA5BBB",
+				"name": "Peynirli Tost",
+				"photoCredit": "Asnim Asnim",
+				"price": 7,
+				"restrictions": ["G"],
+                "description": "Kaşar Peyniri"
+			},
+			{
+                "id": "FD3BACF7-01AE-449D-8929-26C6F8EC90D5",
+				"name": "Pepperoni Pizza",
+				"photoCredit": "Thomas Tucker",
+				"price": 14,
+				"restrictions": ["D", "G"],
+				"description": "Pepperoni, Kaşar Peyniri"
+			},
+			{
+                "id": "F5BCE219-391D-4AAF-8DA7-D25096776D46",
+				"name": "Veggie Pizza",
+				"photoCredit": "Cel Lisboa",
+				"price": 12,
+				"restrictions": ["D", "G", "V"],
+                "description": "Vegan"
+			}
+		]
+	},
+	{
+		"name": "Tatlılar",
+        "id": "1C89DAFD-7653-4EF2-BF20-C51A159BAC43",
+		"items": [
+			{
+                "id": "AB7E38EA-05A7-426A-AFF3-B3A32B3E86BF",
+				"name": "Kemalpaşa Tatlısı",
+				"photoCredit": "Karly Gomez",
+				"price": 6,
+				"restrictions": ["D", "V"],
+                "description": "Kemalpaşa Tatlısı"
+			},
+			{
+                "id": "758ABBE3-F338-4F7C-BAC7-8D61BC1FB329",
+				"name": "Şambali",
+				"photoCredit": "Mana",
+				"price": 8,
+				"restrictions": ["N", "V"],
+				"description": "Şambali"
+			},
+			{
+                "id": "A73E2D2D-D53A-46D4-8829-62011EEF7DA4",
+				"name": "Supangle",
+				"photoCredit": "Kobby Mendez",
+				"price": 5,
+				"restrictions": ["G", "V"],
+				"description": "Supangle"
+			},
+			{
+                "id": "971CFDDD-2AFA-418F-909F-D459CC6827CF",
+				"name": "Super Sundae",
+				"photoCredit": "Camila Melim",
+				"price": 7,
+				"restrictions": ["D", "V"],
+				"description": "Super Sundae"
+			}
+		]
+	},
+	{
+		"name": "İçecekler",
+        "id": "CE3C67F9-79E3-46E3-B134-362A52ABFE3C",
+		"items": [
+			{
+                "id": "A4D89AF9-190E-4409-B924-AABD13DBB6A4",
+				"name": "Ayran",
+				"photoCredit": "Melissa Walker Horn",
+				"price": 5,
+				"restrictions": ["V"],
+				"description": "Ayran"
+			},
+			{
+                "id": "FC201614-1418-4152-9469-087B27485D13",
+				"name": "Kola",
+				"photoCredit": "Alex Loup",
+				"price": 6,
+				"restrictions": ["V"],
+                "description": "Kola"
+			},
+			{
+                "id": "58CE3F3E-74E1-4C5F-A630-986B187788B5",
+				"name": "Boza",
+				"photoCredit": "Nathan Dumlao",
+				"price": 3,
+				"restrictions": ["V"],
+				"description": "Boza"
+			},
+			{
+                "id": "71B872F2-3B5D-46D0-9D98-E696B4AE30E4",
+				"name": "Gazoz",
+				"photoCredit": "Nathan Dumlao",
+				"price": 7,
+				"restrictions": ["D", "V"],
+				"description": "Gazoz"
+			},
+			{
+                "id": "DE58CEFF-7023-4B60-88CC-80C5B7BFB6EC",
+				"name": "Su",
+				"photoCredit": "Loverna Journey",
+				"price": 4,
+				"restrictions": ["V"],
+				"description": "Su"
+			}
+		]
+	}
+]
+
