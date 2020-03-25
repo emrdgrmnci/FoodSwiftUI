@@ -20,10 +20,7 @@ This project is my very first SwiftUI project and I followed <a href = "https://
   <img src="ScreenImages/ScreenShot7.png" width="150" />&nbsp;
   </br>
   </p>
-  
-  <p float = "left">
-  <img src="ScreenImages/ChangePasswordScreen.png" width="150" />&nbsp;
-  </p><br>
+
 
 ### ABOUT
 Hungry? <b>FoodSwiftUI</b> is food delivery app that brings delicious food from your favourite local restaurant right to your door.  FoodSwiftUI makes local food delivery fast and easy! 
@@ -37,7 +34,6 @@ The resto will prepare your food, <strike>real-time tracking</strike> and once i
 
 ### FEATURES
 <ul>
-<li>SwiftUI</li>
 <li>Select food from restaurant</li>
 <strike><li>Food delivery tracking</li></strike>
 <li>Credit card or cash payment</li>
@@ -48,6 +44,8 @@ The resto will prepare your food, <strike>real-time tracking</strike> and once i
 </ul>
 
 ### REQUIREMENTS
-<ul><li>Xcode 11.0+</li>
+<ul>
+  <li>SwiftUI</li>
+  <li>Xcode 11.0+</li>
 <li>iOS 13.0+</li>
 </ul>
