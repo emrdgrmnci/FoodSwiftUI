@@ -10,7 +10,10 @@ import SwiftUI
 
 struct ContentView: View {
     let menu = Bundle.main.decode([MenuSection].self, from: "menu.json")
-
+    init() {
+        UINavigationBar.appearance().backgroundColor = .red
+        UINavigationBar.appearance().tintColor = .white
+    }
     var body: some View {
         NavigationView {
             List {
@@ -29,6 +32,15 @@ struct ContentView: View {
     }
 }
 
+extension UINavigationController {
+    override open func viewDidLoad() {
+        super.viewDidLoad()
+
+        let appearance = UINavigationBarAppearance()
+        appearance.backgroundColor = .red
+        navigationBar.standardAppearance = appearance
+    }
+}
 struct ContentView_Previews: PreviewProvider {
     static var previews: some View {
         ContentView()
